@@ -1,0 +1,10 @@
+# Power BI temporary files
+*.abf
+*.lg
+*.lock
+AppData/
+Backup/
+
+# OS generated files
+.DS_Store
+Thumbs.db
